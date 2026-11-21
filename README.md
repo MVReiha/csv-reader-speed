@@ -5,7 +5,7 @@
 [![reward](https://make.fun/badge/csv-reader-speed-01-run-20261121/MVReiha/csv-reader-speed/reward.svg)](https://make.fun/c/csv-reader-speed-01-run-20261121)
 
 Entry for [make.fun](https://make.fun)'s "Read broken CSV files faster"
-bounty ([csv-reader-speed-01-run-20261121](https://make.fun/c/csv-reader-speed-01-run-20261121),
+bounty ([csv-reader-speed-01-run-20261121](https://make.fun/bounty/csv-reader-speed-01-run-20261121),
 $100 in USDC): a faster drop-in for make.fun's own csv-reader 1.0.0 that
 answers exactly as it does on every case.
 
